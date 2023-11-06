@@ -1,6 +1,5 @@
-# Elo, bejbe tatauzyk 😎
-
-![img](https://glamrap.pl/wp-content/uploads/2020/10/sentino.jpg)
+# Travel Agancy in next.js
+using typescript & material components for react
 
 ### Furthermore, how to run this exquisite application:
 
